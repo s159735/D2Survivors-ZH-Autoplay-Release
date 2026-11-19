@@ -1,0 +1,66 @@
+D2 Survivors 打工仔　使用條款與版權聲明
+
+【一、權利歸屬】
+・遊戲原創／開發商：Blizzard Entertainment
+擁有：暗黑破壞神 II（Diablo II）及重製版（Diablo II: Resurrected）的名稱、商標與遊戲內容。
+・D2 Survivors 原作者：國外玩家開發者
+擁有：D2 Survivors 遊戲本體、名稱與素材。本工具不含遊戲本體。
+・中文化原作者：玩家 jtnhrbpvvm-spec
+擁有：D2ZH 中文化書籤的翻譯內容。整合包內附的翻譯檔保留原作者標示；原作者不同意收錄，請透過「回報」告知，將立即移除。
+・WebView2 元件：Microsoft
+擁有：網頁版專用視窗使用的元件，依原授權使用，授權檔隨附於整合包。
+・本工具作者：作者（EMO）
+擁有：只有打工仔自己的程式碼、面板介面與文字。© 2026 作者（EMO）版權所有，未經授權禁止重製、轉售、散布或改作。
+除本工具作者外，以上權利都屬原權利人，作者不主張任何權利；提到這些名稱只為說明本工具搭配哪個遊戲使用。
+
+【二、非官方聲明】
+本工具為玩家個人製作的非官方第三方輔助工具，與 Blizzard Entertainment、D2 Survivors 作者及中文化作者都沒有關係，也沒有得到他們的授權或背書。
+
+【三、你可以】
+免費下載，在自己的電腦或手機上個人使用。
+
+【四、你不可以】
+以任何形式販售、轉售、出租，或包裝成收費服務。
+修改、拆解、破解，或重新包裝後再散布。
+拿掉或更改版權聲明與作者標示。
+冒充作者，或宣稱是官方工具。
+用於任何違法用途，或違反法律、遊戲規定的行為。
+把自己的登入（DC 帳號、登入碼）或本工具的檔案轉給別人使用。
+違反以上規定的人，自行負擔一切法律責任；作者保留追究的權利。
+
+【五、問題回報、使用統計與登入】
+按「回報」時，只會送出你填的內容、你附的截圖，以及版本、平台資訊和最近的卡頓紀錄（什麼時候卡、當時打工仔在做什麼），不含存檔、遊戲帳號或其他個人資料。回報存放在作者的 Google 帳號，只用來找問題、修問題，處理完可能刪除。截圖請不要拍到個人資料。
+另外每天最多一次送出匿名的使用次數（隨機產生的安裝編號、版本、平台），只用來了解大約多少人在用，不含存檔、遊戲帳號或其他個人資料。
+登入時，打工仔自己不送出任何資料。按「複製」拿到的登入碼，由這台裝置的一組隨機碼和存檔裡的玩家編號算出（無法還原成玩家編號），再加上一個只有 256 種的存檔記號，由你自己貼到作者的 DC 伺服器。玩家編號本身、存檔、遊戲帳號都不會送出，也不會改動存檔。
+作者的 DC 機器人只記你的 DC 帳號編號、名稱、你貼的登入碼和申請、審核的時間，存在作者自己的電腦和作者伺服器的私人頻道，只用來審核、停用登入；不記 IP、裝置，也不會私訊你。DC 本身怎麼處理資料，依 Discord 的規定。
+想刪除自己的紀錄：到作者 DC 伺服器的「申請登入」或「登入與換機」頻道按「刪除我的資料」，或按「回報」告知。刪除後只留下對不回你的停用記號，讓停用繼續有效；另外留一筆由 DC 帳號編號加密算出的紀錄（看不出是誰，只在同一個帳號再申請時對得上，讓刪資料不能拿來跳過停用和等待），最多 1 年自動刪除。作者電腦的備份最多 30 天後也會清掉。
+
+【六、免費提供，不負擔保責任】
+本工具免費、照現狀提供，作者不做任何明示或默示的保證，包括沒有錯誤、一直能用、適合特定用途，或符合遊戲的規定。
+
+【七、責任限制】
+因使用或無法使用本工具造成的任何直接或間接損失，包括遊戲帳號、存檔、排行榜成績、資料或裝置受到影響，作者都不負賠償責任。是否使用請自行評估、自行承擔。
+
+【八、使用者自負責任】
+使用者因自己違反本條款、法律或遊戲規定，導致作者被第三方求償或追究時，由該使用者負責處理並承擔相關費用與損失。
+
+【九、作者權利】
+作者可以隨時修改本條款，或修改、暫停、停止提供本工具、其中個別功能與更新，不另行通知。
+作者可以停用違反本條款的登入；停用只會讓打工仔不能用，不會動到遊戲或存檔。
+作者只以「作者（EMO）」署名，不公開其他身分資料。
+
+【十、同意】
+下載、安裝或使用本工具，即表示同意以上條款；條款以最新版為準。不同意請停止使用並刪除本工具。
+
+English
+Original game developer: Blizzard Entertainment — Diablo II and Diablo II: Resurrected names, trademarks and content.
+D2 Survivors original author: an overseas player — the D2 Survivors game, its name and assets (not included in this tool).
+Chinese translation original author: player jtnhrbpvvm-spec — the D2ZH translation content (removed on request).
+WebView2: Microsoft — used under its own license.
+This tool's author: the author (EMO) — only this tool's own code, interface and text, © 2026.
+This is an unofficial third-party fan-made helper, not affiliated with or endorsed by Blizzard, the D2 Survivors author or the translation author.
+Free for personal use only. Selling, reselling or renting in any form, and any use that is illegal or breaks the game's rules, are prohibited; anyone who does so bears sole legal responsibility, and the author reserves the right to take action.
+Provided free and "as is", without warranty of any kind. The author is not liable for any direct or indirect loss, including to game accounts, saves, leaderboard results, data or devices. Users who breach these terms indemnify the author against any resulting third-party claims. The author may change these terms or stop providing the tool at any time without notice.
+Reports send only what you enter, any screenshot you attach, and version info. Once a day at most, an anonymous usage count (a random install id, version and platform) is sent; no saves, accounts or personal data. Logging in sends nothing from this tool: you paste a login code into the author's Discord server yourself. The code is derived from a random number on this device and the save's player id (it cannot be turned back into the id), plus a save marker with only 256 values; the player id itself is never sent and the save is never changed. The author's Discord bot keeps only your Discord account id, name, the login code you pasted and request/review times, on the author's own computer and in private channels of the author's server, to approve or disable logins; no IP or device data, and no direct messages. To delete your records, press "Delete my data" in the author's Discord "申請登入" or "登入與換機" channel, or ask through "Report". Only a disable marker that cannot be linked back to you is kept so a disable stays in effect, plus an encrypted value derived from your Discord account id that only matches if the same account applies again (so deleting cannot skip a disable or a waiting period), removed within 1 year; the author's backups are cleared within 30 days. Logins are personal: do not pass your login or this tool's files to others; the author may disable a login that breaks these terms, which only stops this tool. The author may change, suspend or stop the tool or any of its features at any time. By using this tool you agree to these terms.
+
+僅供個人使用，禁止任何販售行為。如有問題，請按標題列「回報」。
