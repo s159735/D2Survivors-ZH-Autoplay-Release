@@ -35,11 +35,11 @@
     "1.5.5": "2026-11-20T22:23"
   },
   "pass": {
-    "seq": 29918257,
-    "need": 0,
+    "seq": 29920939,
+    "need": 1,
     "stop": [],
     "give": [],
-    "sig": "byooc07fsyRcAoH02_biq8mfItR55mBwO62JY2LpKTIwYPmSiewfn00eUA2Uw599HFq2ka1sQKokn22kYfQCKg"
+    "sig": "yOV4qMyjWFjBXhLXXDO2CeZ0mbX-F6fYFkNubQEz2ZUilaAMTNkIhzu8kwt7DB5IV2AHtdWjhjDQIt0BJeScPA"
   },
   "changes": [
     {
