@@ -18,6 +18,7 @@ D2 Survivors 打工仔　使用條款與版權聲明
 
 【三、你可以】
 免費下載，在自己的電腦或手機上個人使用。
+本工具只由作者透過官方管道免費提供，沒有授權任何人轉售或代理。從其他來源取得，或有人向你收費給你的，都不是官方版本，可能被改過或夾帶風險，作者不負責，請改由官方管道取得。
 
 【四、你不可以】
 以任何形式販售、轉售、出租，或包裝成收費服務。
@@ -60,6 +61,7 @@ WebView2: Microsoft — used under its own license.
 This tool's author: the author (EMO) — only this tool's own code, interface and text, © 2026.
 This is an unofficial third-party fan-made helper, not affiliated with or endorsed by Blizzard, the D2 Survivors author or the translation author.
 Free for personal use only. Selling, reselling or renting in any form, and any use that is illegal or breaks the game's rules, are prohibited; anyone who does so bears sole legal responsibility, and the author reserves the right to take action.
+This tool is provided free only through the author's official channel; no one is authorized to resell or redistribute it. A copy obtained elsewhere, or one someone charges you for, is not official, may be altered or unsafe, and is not the author's responsibility — get it from the official channel instead.
 Provided free and "as is", without warranty of any kind. The author is not liable for any direct or indirect loss, including to game accounts, saves, leaderboard results, data or devices. Users who breach these terms indemnify the author against any resulting third-party claims. The author may change these terms or stop providing the tool at any time without notice.
 Reports send only what you enter, any screenshot you attach, and version info. Once a day at most, an anonymous usage count (a random install id, version and platform) is sent; no saves, accounts or personal data. Logging in sends nothing from this tool: you paste a login code into the author's Discord server yourself. The code is derived from a random number on this device and the save's player id (it cannot be turned back into the id), plus a save marker with only 256 values; the player id itself is never sent and the save is never changed. The author's Discord bot keeps only your Discord account id, name, the login code you pasted and request/review times, on the author's own computer and in private channels of the author's server, to approve or disable logins; no IP or device data, and no direct messages. To delete your records, press "Delete my data" in the author's Discord "申請登入" or "登入與換機" channel, or ask through "Report". Only a disable marker that cannot be linked back to you is kept so a disable stays in effect, plus an encrypted value derived from your Discord account id that only matches if the same account applies again (so deleting cannot skip a disable or a waiting period), removed within 1 year; the author's backups are cleared within 30 days. Logins are personal: do not pass your login or this tool's files to others; the author may disable a login that breaks these terms, which only stops this tool. The author may change, suspend or stop the tool or any of its features at any time. By using this tool you agree to these terms.
 
