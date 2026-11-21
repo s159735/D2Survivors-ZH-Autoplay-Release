@@ -35,7 +35,7 @@
     "1.5.5": "2026-11-20T22:23"
   },
   "pass": {
-    "seq": 29921301,
+    "seq": 29921310,
     "need": 1,
     "stop": [],
     "give": [
@@ -44,7 +44,7 @@
         "p": "BOJEfpwAAQLQAciS5NMQIexpj4n0TGtj8XtETuACq2dWJxsUFisdrBqmvcQtGu0xIp1v3HDboZhlAVYIugxmpuY8TAVXBmI9e-Etp8U"
       }
     ],
-    "sig": "R85wZrVktAfFIOSjiGPQxCFDeSPBGqq-ZMuu6YUeqaRb-zKoMZh0Ny9IupGb4M9CF1VjESi2O2WRwy_iiNVh6A"
+    "sig": "op9qgr8t20neUnTfYj_QSzuLr0MVKDKA-iEsFc6LzScl1az6EZl89llBPq-yxeitkvnBEwCxL6SJKiyRyx6LzQ"
   },
   "changes": [
     {
