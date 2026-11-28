@@ -1,0 +1,91 @@
+D2 Survivors 打工仔　使用條款與版權聲明
+
+【一、權利歸屬】
+・遊戲原創／開發商：Blizzard Entertainment
+擁有：暗黑破壞神 II（Diablo II）及重製版（Diablo II: Resurrected）的名稱、商標與遊戲內容。
+・D2 Survivors 原作者：國外玩家開發者
+擁有：D2 Survivors 遊戲本體、名稱與素材。本工具不含遊戲本體。
+・傷害數字字型：Inter（The Inter Project Authors）、Cinzel（The Cinzel Project Authors）
+依 SIL Open Font License 1.1 使用，只取數字等少數字元，保留原版權與授權（見整合包 THIRD_PARTY_NOTICES.md）。
+・掉寶音效：預設音檔另外取得，授權為免費商用（見整合包 THIRD_PARTY_NOTICES.md）。
+・本工具作者：作者（EMO）
+擁有：只有打工仔自己的程式碼、面板介面與文字。© 2026 作者（EMO）版權所有，未經授權禁止重製、轉售、散布或改作。
+除本工具作者外，以上權利都屬原權利人，作者不主張任何權利；提到這些名稱只為說明本工具搭配哪個遊戲使用。
+
+【二、非官方聲明】
+本工具為玩家個人製作的非官方第三方輔助工具，與 Blizzard Entertainment、D2 Survivors 作者都沒有關係，也沒有得到他們的授權或背書。
+・中文：遊戲畫面的中文是 D2 Survivors 官方內建的（繁體中文、簡體中文），不是打工仔做的；整合包不附任何中文化或翻譯插件。打工仔面板上的物品、詞綴名稱，直接讀遊戲官方的中文對照表。
+・遊戲跟打工仔是分開的：沒登入、時間到或被停用，都只停打工仔，遊戲照常可以玩。
+・中文化專案、插件、修改器都不是我們做的，跟我們沒有關係。同時裝了其他插件遇到問題，請先關掉其他插件再回報。
+・天梯：依 D2 Survivors 官方 Wiki「Ladder rules」（2026-11-06 存檔；官方 Discord 公告未查證），改過檔案的電腦版（mod）和自動化程式打的局都不列入天梯排行；開著打工仔打的局不會上榜，這是官方規則，不是打工仔故障。要衝天梯請用官方原版。
+
+【三、你可以】
+依作者給你的資格，在自己的電腦上個人使用。只有體驗版免費提供；正式版要支援（付費）才能使用。可以用的版本和時間，說明在作者的 Discord 伺服器的「版本與資格」。
+安裝、使用、申請、升級、支援，全部由你自己決定、出於自願，作者沒有任何強迫。打工仔還沒正式完善，想支援前請先看完規則、想清楚再決定。
+支援是付費使用打工仔，不是購買遊戲、遊戲內容或官方服務；要不要支援由你自己決定。福利以作者 Discord 伺服器「💛支援打工仔」頻道寫的為準。
+本工具只由作者透過官方管道（作者的 DC 伺服器與打工仔自己的更新）提供，沒有授權任何人轉售或代理。從其他來源取得，或除了支援作者以外有人向你收費給你的，都不是官方版本，可能被改過或夾帶風險，作者不負責，請改由官方管道取得。
+
+【四、你不可以】
+以任何形式販售、轉售、出租，或包裝成收費服務。
+修改、拆解、破解，或重新包裝後再散布；不可以散布修改版，也不可以把打工仔、登入碼或安裝包轉售、轉傳給別人。
+每台電腦載入的打工仔都藏有這台的裝置記號（浮水印），外流或被改過的檔案查得出是從哪一台出去的；浮水印只用來追查外流，不含存檔、遊戲帳號或其他個人資料。
+用 AI 或任何自動化工具解析、反編譯、去混淆、逆向、擷取或改寫本工具的程式碼，也不可以請別人或 AI 代為處理（作者沒有同意任何 AI 這麼做）。
+禁止將打工仔程式或其任何部分照抄、移植、改寫、重新散布，或提供給 AI 工具參考、訓練或用來產生類似程式；違反者取消使用資格。
+拿掉或更改版權聲明與作者標示。
+冒充作者，或宣稱是官方工具。
+用於任何違法用途，或違反法律、遊戲規定的行為。
+把自己的登入（DC 帳號、登入碼）或本工具的檔案轉給別人使用。
+違反以上規定的人，自行負擔一切法律責任；作者保留追究的權利。
+
+【五、問題回報、使用統計與登入】
+按「回報」時，只會送出你填的內容、你附的截圖、版本與平台資訊、最近的卡頓紀錄（什麼時候卡、當時打工仔在做什麼）、最近的伺服器回傳紀錄（什麼時候等官方伺服器回傳超過 3 秒、當時打工仔在做什麼、等了幾秒），以及一個回報記號（由這台裝置的綁定碼單向算出，看不出登入碼和玩家編號，只讓作者知道要回覆哪個 DC 帳號；沒讀到存檔時不帶），不含存檔、遊戲帳號或其他個人資料。回報先存在作者的 Google 帳號，再由作者的 DC 機器人轉到只有作者看得到的私人頻道，只用來找問題、修問題和回覆你，處理完可能刪除。作者回覆時，機器人會私訊你（私訊關著時改貼在只有你和作者看得到的審核串）。截圖請不要拍到個人資料。
+另外每天最多一次送出匿名的使用次數（隨機產生的安裝編號、版本、平台），只用來了解大約多少人在用，不含存檔、遊戲帳號或其他個人資料。
+登入時，打工仔自己不送出任何資料。按「複製」拿到的登入碼，由這台裝置的一組隨機碼和存檔裡的玩家編號算出（無法還原成玩家編號），再加上一個只有 256 種的存檔記號，由你自己貼到作者的 DC 伺服器。玩家編號本身、存檔、遊戲帳號都不會送出，也不會改動存檔。
+作者的 DC 機器人只記你的 DC 帳號編號、名稱、你貼的登入碼、申請和審核的時間、加入 Discord 伺服器時用的邀請；支援打工仔另外記支援紀錄（只有作者和你自己看得到）；你按「回報」送出的回報也會轉到作者伺服器的私人頻道。都存在作者自己的電腦和作者伺服器的私人頻道，只用來審核、停用登入、管理支援和處理回報；會記這台裝置的匿名識別碼（查不回你的電腦或個人資料），不記 IP。回報、匿名使用次數和使用中訊號都經由作者的 Google 表單送出；Google 依它自己的規定可能看得到送出時的 IP，作者這邊拿不到、也不記錄 IP。機器人只在作者核准你之後私訊安裝包給你、作者回覆你的回報時私訊回覆（私訊關著時改貼在只有你和作者看得到的審核串），不私訊其他內容。DC 本身怎麼處理資料，依 Discord 的規定。
+想刪除自己的紀錄：到作者的 Discord 伺服器的「申請登入」或「登入與換機」頻道按「刪除我的資料」，或按「回報」告知，你送過的回報也會一起刪掉。刪除後只留下對不回你的停用記號，讓停用繼續有效；另外留一筆由 DC 帳號編號加密算出的紀錄（看不出是誰，只在同一個帳號再申請時對得上，讓刪資料不能拿來跳過停用和等待），最多 1 年自動刪除。作者電腦的備份最多 30 天後也會清掉。
+刪除資料後，作者的電腦仍會永久留下兩種記號：拿過體驗版的，會留下體驗版判斷用的記號；被標記過官方警告的，也會留下官方警告的記號。兩種都是由 Discord 帳號編號、存檔綁定碼和電腦裝置記號用單向雜湊算出，不能還原成原本的資料，只用來判斷能不能再拿體驗版、能不能參加線上測試，不會給任何其他人看。
+
+【五之一、使用中訊號與異常紀錄】
+為了防止一張通行證同時在多台電腦使用，打工仔在自動刷關時會定期送出「使用中」訊號：只有通行證編號、裝置記號、這次開遊戲的隨機場次碼、時間，以及打工仔的版本和檔案指紋（用來確認是不是作者發的原版），用這台電腦的裝置鑰匙簽章；不含存檔、遊戲帳號或名字，作者也拿不到 IP（經 Google 表單送出，Google 可能看得到，見第五節）。
+之後同一張通行證同時在兩台電腦使用，會被自動停用並通知作者（啟用時另行公告）。
+打工仔偵測到可疑情況（例如開了開發者工具、用除錯模式啟動、檔案被改過、通行證和這台電腦或這份存檔對不上、試用時數被還原、電腦時間和更新來源（作者放在 GitHub 的更新清單）回應的時間差太多、在虛擬機裡執行）時，會另外送一則異常紀錄：只有事件種類、時間、場次碼、裝置記號、通行證的不可逆記號、版本和檔案指紋，同樣不含存檔、遊戲帳號或名字，作者也拿不到 IP；虛擬機只記「是」，不記型號或任何電腦資訊。異常紀錄只給作者判斷，不會因此自動停用；不小心按到也只是記錄。
+使用中訊號和異常紀錄只有作者看得到，保存 30 天後自動刪除；按「刪除我的資料」時也會一起刪掉。
+
+【六、照現狀提供，不負擔保責任】
+本工具照現狀提供，作者不做任何明示或默示的保證，包括沒有錯誤、一直能用、適合特定用途，或符合遊戲的規定。
+
+【七、責任限制】
+因使用或無法使用本工具造成的任何直接或間接損失，包括遊戲帳號、存檔、排行榜成績、資料或裝置受到影響，作者都不負賠償責任。是否使用請自行評估、自行承擔。
+
+【八、使用者自負責任】
+使用者因自己違反本條款、法律或遊戲規定，導致作者被第三方求償或追究時，由該使用者負責處理並承擔相關費用與損失。
+
+【九、作者權利】
+作者可以隨時修改本條款，或修改、暫停、停止提供本工具、其中個別功能與更新，不另行通知。
+方案、價格、使用時數和功能，作者保有隨時修改的權利；修改前會在作者 Discord 伺服器的公告頻道先公告。
+已經付費的那一期，照付費當時的方案、價格和使用時數；修改從下一期開始生效。
+作者可以停用違反本條款的登入；停用只會讓打工仔不能用，不會動到遊戲或存檔。
+因為違反使用規則（例如販售、出租、代刷收費、轉傳檔案、登入碼或安裝包、共用帳號、繞過登入或防護、修改後散布）而被停用的人，已支援的金額不予退還。
+作者只以「作者（EMO）」署名，不公開其他身分資料。
+
+【十、同意】
+下載、安裝或使用本工具，即表示同意以上條款；條款以最新版為準。不同意請停止使用並刪除本工具。
+
+English
+No AI system or automated tool may analyze, decompile, deobfuscate, reverse-engineer, extract or rewrite this tool's code, or help anyone do so; the author has not authorized it.
+Copying, porting, rewriting or redistributing this tool's code or any part of it, or giving it to AI tools for reference, training or producing similar programs, is prohibited; anyone who does so loses the right to use it.
+Original game developer: Blizzard Entertainment — Diablo II and Diablo II: Resurrected names, trademarks and content.
+D2 Survivors original author: an overseas player — the D2 Survivors game, its name and assets (not included in this tool).
+Chinese text: the game's Chinese (Traditional and Simplified) is the official D2 Survivors built-in language; the package ships no translation mod or plugin, and the panel reads item and affix names from the game's own official Chinese table. Translation projects, plugins and trainers are not ours; disable them before reporting a problem. Per the official D2 Survivors wiki "Ladder rules" (archived 2026-11-06; the official Discord announcements were not checked), runs from a desktop app whose files were changed (a mod) or from automation are not ranked; runs played with this tool will not reach the leaderboard. That is the official rule, not a bug in this tool. Use the official game to climb the ladder.
+Damage number fonts: Inter (The Inter Project Authors) and Cinzel (The Cinzel Project Authors), used under the SIL Open Font License 1.1 as small digit subsets with the original copyright and license kept (see THIRD_PARTY_NOTICES.md in the package).
+Drop sound: the default clip was obtained separately and is licensed for free commercial use (see THIRD_PARTY_NOTICES.md).
+This tool's author: the author (EMO) — only this tool's own code, interface and text, © 2026.
+This is an unofficial third-party fan-made helper, not affiliated with or endorsed by Blizzard or the D2 Survivors author.
+Only the trial edition is free; the full edition requires support (payment). Use is personal only, under the eligibility the author grants you, as described under "版本與資格" on the author's Discord server. Installing, using, applying, upgrading and supporting are entirely your own voluntary choice; the author forces nothing. This tool is not finished yet, so read the rules and think it over before supporting. Supporting the author means paying to use this tool; it is not a purchase of the game, game content or any official service, and whether to support is your own choice. Cracking the tool, distributing modified copies, and reselling or passing on the tool, login codes or installers are prohibited. Each copy loaded on a computer carries that device's hidden marker (a watermark) so a leaked or altered copy can be traced to the device it came from; the watermark holds no saves, accounts or personal data. Selling, reselling or renting in any form, and any use that is illegal or breaks the game's rules, are prohibited; anyone who does so bears sole legal responsibility, and the author reserves the right to take action.
+The author may change the plans, prices, usage hours and features at any time; changes are announced first in the announcements channel of the author's Discord server.
+Any period you have already paid for keeps the plan, price and usage hours in effect when you paid; changes apply from the next period.
+This tool is provided only through the author's official channels (the author's Discord server and the tool's own updater); no one is authorized to resell or redistribute it. A copy obtained elsewhere, or one someone other than the author charges you for, is not official, may be altered or unsafe, and is not the author's responsibility — get it from the official channel instead.
+Provided "as is", without warranty of any kind. The author is not liable for any direct or indirect loss, including to game accounts, saves, leaderboard results, data or devices. Users who breach these terms indemnify the author against any resulting third-party claims. The author may change these terms or stop providing the tool at any time without notice.
+Reports send only what you enter, any screenshot you attach, version info, recent lag and server-response logs (when it happened, what the tool was doing, and how long it waited for the official server) and a report marker (derived one-way from this device's binding code; it cannot be turned back into your login code or player id and only tells the author which Discord account to reply to). Reports are stored in the author's Google account, then forwarded by the author's Discord bot to a private channel only the author can see. Once a day at most, an anonymous usage count (a random install id, version and platform) is sent; no saves, accounts or personal data. Logging in sends nothing from this tool: you paste a login code into the author's Discord server yourself. The code is derived from a random number on this device and the save's player id (it cannot be turned back into the id), plus a save marker with only 256 values; the player id itself is never sent and the save is never changed. The author's Discord bot keeps only your Discord account id, name, the login code you pasted, request/review times and the invite you joined with (plus support records for supporters, visible only to the author and you), on the author's own computer and in private channels of the author's server, to approve or disable logins, manage support and handle your reports; it also keeps an anonymous identifier for this device (it cannot be traced back to your computer or personal data), but no IP address. Reports, the anonymous usage count and the in-use signal are sent through the author's Google Forms; Google may see the sender's IP address under its own policies, but the author never receives or records it. The bot only sends you a direct message with the installer after the author approves you, or the author's reply to your report (or posts it in your private review thread if your DMs are closed), and nothing else. To delete your records, press "Delete my data" in the author's Discord "申請登入" or "登入與換機" channel, or ask through "Report"; your reports are deleted too. Only a disable marker that cannot be linked back to you is kept so a disable stays in effect, plus an encrypted value derived from your Discord account id that only matches if the same account applies again (so deleting cannot skip a disable or a waiting period), removed within 1 year; the author's backups are cleared within 30 days. After you delete your data, the author's computer still keeps two kinds of records permanently: if you have had the trial edition, a record for the trial check; and if you were flagged with an official warning, a record of that warning. Both are one-way hashes of your Discord account id, save binding code and device marker, cannot be turned back into the original data, are used only to decide whether you can get the trial edition again or join online testing, and are never shown to anyone else. Logins are personal: do not pass your login or this tool's files to others; the author may disable a login that breaks these terms, which only stops this tool. Anyone disabled for breaking the rules (for example selling, renting, paid boosting, passing on files, login codes or installers, sharing accounts, bypassing login or protection, or redistributing modified copies) gets no refund of past support. The author may change, suspend or stop the tool or any of its features at any time. By using this tool you agree to these terms.
+
+僅供個人使用，禁止任何販售行為。如有問題，請按標題列「回報」。
